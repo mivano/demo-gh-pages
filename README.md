@@ -24,6 +24,10 @@ layout: post
 
 See that is dynamically refreshes
 
-Commit the newly created data
+Commit the newly created pages
 
 Go to GitHub, settings, pages and see that there is a workflow.
+
+The action should build and deploy. It will output a location to find the site.
+
+Add more pages, or alter the _config file to see the effects.
