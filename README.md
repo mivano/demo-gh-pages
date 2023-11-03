@@ -24,4 +24,6 @@ layout: post
 
 See that is dynamically refreshes
 
+Commit the newly created data
 
+Go to GitHub, settings, pages and see that there is a workflow.
